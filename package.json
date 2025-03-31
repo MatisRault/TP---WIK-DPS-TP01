@@ -1,7 +1,7 @@
 {
   "name": "ping-api",
   "version": "1.0.0",
-  "description": "API minimaliste pour retourner les headers HTTP",
+  "description": "API pour retourner les headers HTTP",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
